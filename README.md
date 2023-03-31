@@ -2,7 +2,7 @@
 creating a key-value pair i.e. the two types of data: the "value" which is the text entered by the user, and a "key" which is a timestamp representing the real-time when the data was entered. This project is done through SQLite and Python integration
 
 Input:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/96885711/229237217-92f07f69-cd6c-4c1c-b34e-433c062bec22.png)
 
 
 Output:
